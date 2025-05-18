@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cskdedytsja2h"
-path="res://.godot/imported/Tileset Mine.png-0fb9ad296ad71ebc1cb270ef6386d45e.ctex"
+uid="uid://uxlui0fgxurg"
+path="res://.godot/imported/margens e bordas de agua.png-11b6a4e61c80c047cbac91efcbe07e54.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Terreno/Tileset Mine.png"
-dest_files=["res://.godot/imported/Tileset Mine.png-0fb9ad296ad71ebc1cb270ef6386d45e.ctex"]
+source_file="res://Terreno/margens e bordas de agua.png"
+dest_files=["res://.godot/imported/margens e bordas de agua.png-11b6a4e61c80c047cbac91efcbe07e54.ctex"]
 
 [params]
 

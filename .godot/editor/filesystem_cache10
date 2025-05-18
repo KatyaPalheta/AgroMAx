@@ -1,19 +1,7 @@
 ea4bc82a6ad023ab7ee23ee620429895
 ::res://::1747450885
 icon.svg::CompressedTexture2D::50332486811629388::1747440597::1747440603::1::::<><><>0<>0<>0fc9e9835fb4a03db9cb3c27ba0a8411<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-::res://Terreno/::1747527818
-bordas elevadas.png::CompressedTexture2D::7544366261934898804::1747504532::1747511852::1::::<><><>0<>0<>d71e335da3301a72ea9541be65eb368f<>res://.godot/imported/bordas elevadas.png-98613af759fe11b831ed01d736504bfd.ctex::
-Leafs.png::CompressedTexture2D::5326733471673515810::1747441783::1747441783::1::::<><><>0<>0<>e5cbaaf70d75d3297b6cc77634219d91<>res://.godot/imported/Leafs.png-c40e9002b0dd5a60badf81ed2754e423.ctex::
+::res://Terreno/::1747537395
 controles_terreno.tscn::PackedScene::5424954726870021296::1747452944::0::1::::<><><>0<>0<><>::uid://da1pl2rkw7e6g::::res://Terreno/Tileset Grass Spring.png
-margem rasa arada.png::CompressedTexture2D::6805339795977387952::1747511107::1747511852::1::::<><><>0<>0<>d1daccba684cf1df189c7230bbeb46c2<>res://.godot/imported/margem rasa arada.png-2eb3173becaa5baa28d68e2d0a9a2214.ctex::
-margem rasa.png::CompressedTexture2D::8092093997679138296::1747510322::1747511852::1::::<><><>0<>0<>192e110ab142546a3dfaa0977eda3106<>res://.godot/imported/margem rasa.png-9eac5182e2505c9996796bd3c8b3aee0.ctex::
-margens.png::CompressedTexture2D::5408537746811503762::1747496630::1747511852::1::::<><><>0<>0<>abfbc8100e14303d909379507f7616ef<>res://.godot/imported/margens.png-194d0d8503416bbc1c839c11e5a8e91a.ctex::
-outra margem.png::CompressedTexture2D::5862875831282488174::1747527818::1747528204::1::::<><><>0<>0<>6958bdeb7acb7d965fe4be7e674fe836<>res://.godot/imported/outra margem.png-c42138b73c044f45bf5bad21097c2587.ctex::
-Tileset Beach.png::CompressedTexture2D::875505419493504892::1747441783::1747441783::1::::<><><>0<>0<>ceea5931a8e73438dfda93c524349047<>res://.godot/imported/Tileset Beach.png-5ee73d2efbad2003d8273dfa7fbc214e.ctex::
-Tileset Grass Deep forest.png::CompressedTexture2D::3788574221028707044::1747441783::1747441783::1::::<><><>0<>0<>a1aa65de7c6a99225d4ef05d226be855<>res://.godot/imported/Tileset Grass Deep forest.png-64d9dd9f1a6527392fb288d94f4a569b.ctex::
-Tileset Grass Fall.png::CompressedTexture2D::6760901682231297588::1747441783::1747441783::1::::<><><>0<>0<>c6645ce8e8439fe289a21c6c70afe9a0<>res://.godot/imported/Tileset Grass Fall.png-0ec27d89ad03f86dc76afeff5c0d03e7.ctex::
-Tileset Grass Spring.png::CompressedTexture2D::7213867716186454164::1747441783::1747441783::1::::<><><>0<>0<>a44f4882fd5afab3129670d814d3ff80<>res://.godot/imported/Tileset Grass Spring.png-de249618562b995c2b3433b175a0159d.ctex::
-Tileset Grass Summer.png::CompressedTexture2D::6810571302546252680::1747441783::1747441783::1::::<><><>0<>0<>39ec5b35498fb946782e78bdad858d36<>res://.godot/imported/Tileset Grass Summer.png-8825f1b03ef3181982257030a40121e3.ctex::
-Tileset Mine.png::CompressedTexture2D::6057073820098339941::1747441783::1747441783::1::::<><><>0<>0<>eba3c0fd5c6590710013e153fb7af56e<>res://.godot/imported/Tileset Mine.png-0fb9ad296ad71ebc1cb270ef6386d45e.ctex::
-tileset primavera grama.png::CompressedTexture2D::2997460668038863379::1747511248::1747511852::1::::<><><>0<>0<>7c3f3e39a88c6e0e749d6d63ddfb6a8f<>res://.godot/imported/tileset primavera grama.png-9aeb21f24e4e9d4fcb505367de2dfe6d.ctex::
-Tileset Winter.png::CompressedTexture2D::8782940265061099797::1747441783::1747441783::1::::<><><>0<>0<>6956959b125e052483f0765f24551198<>res://.godot/imported/Tileset Winter.png-e50dedd0c6d4665296d3dc70433dd0b3.ctex::
+grama primavera decoracao.png::CompressedTexture2D::598583672517922308::1747537361::1747537494::1::::<><><>0<>0<>b960a05df3af21f293ca7b74a6cf39c4<>res://.godot/imported/grama primavera decoracao.png-1ea03cd5a553b34ddfff2ed1eab24192.ctex::
+margens e bordas de agua.png::CompressedTexture2D::1451961622945585936::1747537277::1747537494::1::::<><><>0<>0<>718d5b742fb18199cd5f8b4b8ff1698d<>res://.godot/imported/margens e bordas de agua.png-11b6a4e61c80c047cbac91efcbe07e54.ctex::
