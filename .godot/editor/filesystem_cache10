@@ -1,7 +1,7 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1747450885
-icon.svg::CompressedTexture2D::50332486811629388::1747440597::1747440603::1::::<><><>0<>0<>0fc9e9835fb4a03db9cb3c27ba0a8411<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-::res://Terreno/::1747587994
-controles_terreno.tscn::PackedScene::5424954726870021296::1747587994::0::1::::<><><>0<>0<><>::uid://ir7t58xnmp45::::res://Terreno/grama primavera decoracao.png<>uid://uxlui0fgxurg::::res://Terreno/margens e bordas de agua.png
-grama primavera decoracao.png::CompressedTexture2D::598583672517922308::1747537361::1747537494::1::::<><><>0<>0<>b960a05df3af21f293ca7b74a6cf39c4<>res://.godot/imported/grama primavera decoracao.png-1ea03cd5a553b34ddfff2ed1eab24192.ctex::
-margens e bordas de agua.png::CompressedTexture2D::1451961622945585936::1747600780::1747600783::1::::<><><>0<>0<>718d5b742fb18199cd5f8b4b8ff1698d<>res://.godot/imported/margens e bordas de agua.png-11b6a4e61c80c047cbac91efcbe07e54.ctex::
+::res://::1747618297
+icon.svg::CompressedTexture2D/CompressedTexture2D::50332486811629388::1747440597::1747440603::1::::<><><>0<>0<>0fc9e9835fb4a03db9cb3c27ba0a8411<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://Terreno/::1747608728
+controles_terreno.tscn::PackedScene::5424954726870021296::1747608728::0::1::::<><><>0<>0<><>::uid://ir7t58xnmp45::::res://Terreno/grama primavera decoracao.png<>uid://uxlui0fgxurg::::res://Terreno/margens e bordas de agua.png
+grama primavera decoracao.png::CompressedTexture2D/CompressedTexture2D::598583672517922308::1747537361::1747537494::1::::<><><>0<>0<>b960a05df3af21f293ca7b74a6cf39c4<>res://.godot/imported/grama primavera decoracao.png-1ea03cd5a553b34ddfff2ed1eab24192.ctex::
+margens e bordas de agua.png::CompressedTexture2D/CompressedTexture2D::1451961622945585936::1747600780::1747600783::1::::<><><>0<>0<>718d5b742fb18199cd5f8b4b8ff1698d<>res://.godot/imported/margens e bordas de agua.png-11b6a4e61c80c047cbac91efcbe07e54.ctex::
