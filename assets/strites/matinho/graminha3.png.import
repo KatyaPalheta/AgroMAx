@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://uxlui0fgxurg"
-path="res://.godot/imported/margens e bordas de agua.png-11b6a4e61c80c047cbac91efcbe07e54.ctex"
+uid="uid://bnjps0bj5tqd0"
+path="res://.godot/imported/graminha3.png-fa15ea5a8bb1ac85c766a3426c56e224.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Terreno/margens e bordas de agua.png"
-dest_files=["res://.godot/imported/margens e bordas de agua.png-11b6a4e61c80c047cbac91efcbe07e54.ctex"]
+source_file="res://assets/strites/matinho/graminha3.png"
+dest_files=["res://.godot/imported/graminha3.png-fa15ea5a8bb1ac85c766a3426c56e224.ctex"]
 
 [params]
 

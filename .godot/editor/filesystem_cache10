@@ -1,7 +1,31 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1747618297
-icon.svg::CompressedTexture2D/CompressedTexture2D::50332486811629388::1747440597::1747440603::1::::<><><>0<>0<>0fc9e9835fb4a03db9cb3c27ba0a8411<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-::res://Terreno/::1747608728
-controles_terreno.tscn::PackedScene::5424954726870021296::1747608728::0::1::::<><><>0<>0<><>::uid://ir7t58xnmp45::::res://Terreno/grama primavera decoracao.png<>uid://uxlui0fgxurg::::res://Terreno/margens e bordas de agua.png
-grama primavera decoracao.png::CompressedTexture2D/CompressedTexture2D::598583672517922308::1747537361::1747537494::1::::<><><>0<>0<>b960a05df3af21f293ca7b74a6cf39c4<>res://.godot/imported/grama primavera decoracao.png-1ea03cd5a553b34ddfff2ed1eab24192.ctex::
-margens e bordas de agua.png::CompressedTexture2D/CompressedTexture2D::1451961622945585936::1747600780::1747600783::1::::<><><>0<>0<>718d5b742fb18199cd5f8b4b8ff1698d<>res://.godot/imported/margens e bordas de agua.png-11b6a4e61c80c047cbac91efcbe07e54.ctex::
+::res://::1747956774
+::res://assets/::1747956774
+icon.svg::CompressedTexture2D::50332486811629388::1747440597::1747956774::1::::<><><>0<>0<>0ccc31981e16bbd7d4c2a0e2b115d4c8<>res://.godot/imported/icon.svg-56083ea2a1f1a4f1e49773bdc6d7826c.ctex::
+::res://assets/strites/::1747956577
+::res://assets/strites/matinho/::1747956578
+cogumelo1.png::CompressedTexture2D/CompressedTexture2D::5299625562986350592::1747945591::1747956578::1::::<><><>0<>0<>03fe60ab776718501860b317f3b36879<>res://.godot/imported/cogumelo1.png-32b9a43681963782481d60e697de2dbb.ctex::
+cogumelo2.png::CompressedTexture2D/CompressedTexture2D::5121046499907371915::1747945962::1747956578::1::::<><><>0<>0<>7098f968ef38de39d0ad5c90cf8f735e<>res://.godot/imported/cogumelo2.png-a39193f5cb652882de8cb4b395bc06bb.ctex::
+cogumelo3.png::CompressedTexture2D/CompressedTexture2D::8813631647736184901::1747945986::1747956578::1::::<><><>0<>0<>685aba8b7548dc6639f72e108e7834ab<>res://.godot/imported/cogumelo3.png-faa673593d5a120f9a7f233144f00bb0.ctex::
+cogumelo4.png::CompressedTexture2D/CompressedTexture2D::7461176431985001004::1747946026::1747956578::1::::<><><>0<>0<>025645eba16bcb5b03dee9fb8cba0baf<>res://.godot/imported/cogumelo4.png-9d2c6924bbe593de9803fab5cbc55d37.ctex::
+cogumelo5.png::CompressedTexture2D/CompressedTexture2D::8144283429800541025::1747946061::1747956578::1::::<><><>0<>0<>6e2d1ec7f9b08045a913c5370bb486f3<>res://.godot/imported/cogumelo5.png-74b7137cb48f9ec5c280b223e6bdc9cc.ctex::
+flor1.png::CompressedTexture2D/CompressedTexture2D::3962185653710853942::1747946462::1747956578::1::::<><><>0<>0<>dacb5f9699f76665be3e039951ef9f9c<>res://.godot/imported/flor1.png-4133d8efefe2453b137700b1995a7270.ctex::
+flor2.png::CompressedTexture2D/CompressedTexture2D::2581884739195357090::1747946510::1747956578::1::::<><><>0<>0<>588be910d31d2049494ed85378b49cee<>res://.godot/imported/flor2.png-252e45df6feba0267259611962635268.ctex::
+flor3.png::CompressedTexture2D/CompressedTexture2D::8829604616461443568::1747946547::1747956578::1::::<><><>0<>0<>b793725aa5c0dc66b2c06b72ad7ff8c4<>res://.godot/imported/flor3.png-c8430f5c20fc852aa92f8c0eea5dae31.ctex::
+flor4.png::CompressedTexture2D/CompressedTexture2D::4605593443379076733::1747946568::1747956578::1::::<><><>0<>0<>c4d0ce9430bd4623ab8b9899cdca334b<>res://.godot/imported/flor4.png-aa2c5d713a844bb388a213ad5cb375e0.ctex::
+flor5.png::CompressedTexture2D/CompressedTexture2D::2734384998515861050::1747946601::1747956578::1::::<><><>0<>0<>0060695fe4b86dc719c9bac4f9abdef3<>res://.godot/imported/flor5.png-f3093fcf0fb1666f459fd2a1a5bab085.ctex::
+flor6.png::CompressedTexture2D/CompressedTexture2D::7794566604536252630::1747946635::1747956578::1::::<><><>0<>0<>8dafea79e70be223aafb4f45cfe43c84<>res://.godot/imported/flor6.png-33b78a1ff6cd35011105fe8cada39964.ctex::
+flor7.png::CompressedTexture2D/CompressedTexture2D::6522532038742194535::1747946661::1747956578::1::::<><><>0<>0<>d9ea6268e31a2961632aac59d024c88f<>res://.godot/imported/flor7.png-3cdba65596a59bfa4be3fc676e835332.ctex::
+graminha1.png::CompressedTexture2D/CompressedTexture2D::7627636922576868918::1747946113::1747956578::1::::<><><>0<>0<>f0c3ac79ddcc6f6fe45a1d6a416b86c1<>res://.godot/imported/graminha1.png-03b8d8d6ee7dfbbc7df381ec3ab3e8de.ctex::
+graminha2.png::CompressedTexture2D/CompressedTexture2D::726250820323652548::1747946136::1747956578::1::::<><><>0<>0<>21f9f4a13499ed9fe09aa9394304a59f<>res://.godot/imported/graminha2.png-5f45504dc56fd69c10c62f2a9c62e842.ctex::
+graminha3.png::CompressedTexture2D/CompressedTexture2D::3318399265034177431::1747946163::1747956578::1::::<><><>0<>0<>c62ba4745de1fedcdf6824c4863696ae<>res://.godot/imported/graminha3.png-fa15ea5a8bb1ac85c766a3426c56e224.ctex::
+graminha4.png::CompressedTexture2D/CompressedTexture2D::5144218246611257107::1747946319::1747956578::1::::<><><>0<>0<>a676401c813bbe97895f5056305627bd<>res://.godot/imported/graminha4.png-23e435c5b17f6e198513fa2d2d1c8809.ctex::
+graminha5.png::CompressedTexture2D/CompressedTexture2D::7466355943107996804::1747946428::1747956578::1::::<><><>0<>0<>f78fc6646fe8549430b2bc41d844e2b4<>res://.godot/imported/graminha5.png-2f40ee033548559f4c031f3ad4a52abe.ctex::
+::res://assets/tilesets/::1747956667
+grama primavera decoracao.png::CompressedTexture2D/CompressedTexture2D::598583672517922308::1747537361::1747956664::1::::<><><>0<>0<>3f083f9ace5fa2c5fde5d1ffad802999<>res://.godot/imported/grama primavera decoracao.png-abb569405baa11175b9bd573ef0aa20b.ctex::
+margens e bordas de agua.png::CompressedTexture2D/CompressedTexture2D::1451961622945585936::1747600780::1747956667::1::::<><><>0<>0<>749cc4a2b1c5bc3ae8bcc9bd91e5fbc9<>res://.godot/imported/margens e bordas de agua.png-3161883dac02773f2408c54bf7e853cd.ctex::
+::res://autoload/::1747956754
+::res://resources/::1747956763
+::res://scenes/::1747956667
+controles_terreno.tscn::PackedScene/PackedScene::5424954726870021296::1747956667::0::1::::<><><>0<>0<><>::uid://ir7t58xnmp45::::res://assets/tilesets/grama primavera decoracao.png<>uid://uxlui0fgxurg::::res://assets/tilesets/margens e bordas de agua.png
+::res://scripts/::1747956739
