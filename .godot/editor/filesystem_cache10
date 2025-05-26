@@ -21,12 +21,15 @@ graminha2.png::CompressedTexture2D/CompressedTexture2D::726250820323652548::1747
 graminha3.png::CompressedTexture2D/CompressedTexture2D::3318399265034177431::1747946163::1747956578::1::::<><><>0<>0<>c62ba4745de1fedcdf6824c4863696ae<>res://.godot/imported/graminha3.png-fa15ea5a8bb1ac85c766a3426c56e224.ctex::
 graminha4.png::CompressedTexture2D/CompressedTexture2D::5144218246611257107::1747946319::1747956578::1::::<><><>0<>0<>a676401c813bbe97895f5056305627bd<>res://.godot/imported/graminha4.png-23e435c5b17f6e198513fa2d2d1c8809.ctex::
 graminha5.png::CompressedTexture2D/CompressedTexture2D::7466355943107996804::1747946428::1747956578::1::::<><><>0<>0<>f78fc6646fe8549430b2bc41d844e2b4<>res://.godot/imported/graminha5.png-2f40ee033548559f4c031f3ad4a52abe.ctex::
-::res://assets/tilesets/::1748213672
+::res://assets/tilesets/::1748232681
 cachoeira e borda alta.png::CompressedTexture2D/CompressedTexture2D::8057920213474602851::1748114375::1748114391::1::::<><><>0<>0<>2f7f013d245d4212d364a720b8fa99a3<>res://.godot/imported/cachoeira e borda alta.png-0959ccec08ab20233fb561e7eda060f2.ctex::
 margem e bordas de agua.png::CompressedTexture2D/CompressedTexture2D::3290223901580609203::1748119762::1748119763::1::::<><><>0<>0<>ca3179855cc374e9a0e783ef6b12c03b<>res://.godot/imported/margem e bordas de agua.png-3ebf52e9e1926bafb857999734870912.ctex::
+Muros2-sheet.png::CompressedTexture2D::2123721941743440966::1748225072::1748225076::1::::<><><>0<>0<>47f7561ac16fd04394a16bc604b0d29d<>res://.godot/imported/Muros2-sheet.png-b26a8f69242414770a4459077c93d932.ctex::
+Muros2.png::CompressedTexture2D::3024670407647096753::1748224616::1748225076::1::::<><><>0<>0<>c5c34a4d7e21516231d63fba7497ff00<>res://.godot/imported/Muros2.png-d57dcc6abf6a04f0519bbe359d829405.ctex::
+Muros-sheet.png::CompressedTexture2D::3102326143820080768::1748232681::1748232683::1::::<><><>0<>0<>b53d50498d78222d2ee33286f81744e5<>res://.godot/imported/Muros-sheet.png-d386dba12ad70a617983d4d25957fa09.ctex::
 Muros.png::CompressedTexture2D/CompressedTexture2D::4138491072097093401::1748216204::1748216206::1::::<><><>0<>0<>0bf69f3bbc673cf074e3b87e264df1b4<>res://.godot/imported/Muros.png-31555458079d63dde663110e907416b9.ctex::
 ::res://autoload/::1747956754
 ::res://resources/::1747956763
-::res://scenes/::1748137914
-base_terreno.tscn::PackedScene::958126521585072311::1748137914::0::1::::<><><>0<>0<><>::uid://dm2k1esubet8f::::res://assets/tilesets/cachoeira e borda alta.png<>uid://bm42ribhjp8ah::::res://assets/tilesets/margem e bordas de agua.png
+::res://scenes/::1748223738
+base_terreno.tscn::PackedScene::958126521585072311::1748223738::0::1::::<><><>0<>0<><>::uid://dm2k1esubet8f::::res://assets/tilesets/cachoeira e borda alta.png<>uid://bm42ribhjp8ah::::res://assets/tilesets/margem e bordas de agua.png<>uid://by7ylw4x74ed2::::res://assets/tilesets/Muros.png
 ::res://scripts/::1747956739
